@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   web:
-    image: borodichalex/project_management_rest
+    image: itdanila/kanban_rest
     depends_on:
       - db
     container_name: web

@@ -29,7 +29,7 @@ Run command:
 
 ```bash
 $user: git clone {repository URL}
-$user: cd project-management-rest
+$user: cd kanban-rest
 $user: git switch source
 $user: heroku create --region eu
 $user: heroku addons:create heroku-postgresql:hobby-dev
